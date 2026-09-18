@@ -1,5 +1,9 @@
 # HuaYuanTimetable
 
+华侨大学 Android 课表工具
+
+**当前版本：v0.3.1**
+
 一个面向华侨大学教务系统的本地课表工具，支持课程信息获取、课表展示、自动同步以及 Android 端使用。
 
 项目目前主要用于个人学习、课表管理与 Android 应用开发实践。
@@ -23,7 +27,7 @@
 ## 项目结构
 
 ```text
-hqu-timetable/
+HuaYuanTimetable/
 ├── app/
 │   ├── src/main/
 │   │   ├── assets/
@@ -223,17 +227,15 @@ VALIDATION.md
 
 ## 下载
 
-如果提供正式 Android 安装包，建议通过 GitHub Releases 发布。
+## 下载
 
-源码仓库主要用于保存：
+当前版本：**v0.3.1**
 
-- 源代码
-- 测试代码
-- 构建文件
-- 文档
-- 示例数据
+Android 用户可以前往 GitHub Releases 下载最新 APK：
 
-APK 文件原则上不直接提交到 Git 仓库。
+**HuaYuanTimetable-0.3.1-login-recovery.apk**
+
+> 当前版本仍处于测试阶段，部分登录和后台同步功能需要更多设备验证。
 
 ---
 
