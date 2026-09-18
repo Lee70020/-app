@@ -1,8 +1,0 @@
-.gradle/
-**/build/
-local.properties
-*.jks
-*.keystore
-*.pyc
-__pycache__/
-schedule.json
