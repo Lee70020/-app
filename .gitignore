@@ -1,0 +1,31 @@
+# 编译产物
+*.apk
+*.zip
+
+# 历史版本
+历史版本/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+
+# IDE
+.idea/
+.vscode/
+
+# 敏感信息
+.env
+*.keystore
+*.jks
+*.keytools/
+tools/
+��ʷ�汾/
+*.apk
+*.zip

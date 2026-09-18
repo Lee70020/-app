@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "semester": "演示数据（不是本人课表）",
+  "courses": [
+    {
+      "name": "示例课程甲",
+      "teacher": "示例老师",
+      "location": "示例教室 A101",
+      "weekday": 1,
+      "weeks": [1, 2, 3, 4],
+      "periods": [1, 2],
+      "raw_text": "示例课程甲\n示例老师\n1-4周 星期一 第1-2节\n示例教室 A101"
+    },
+    {
+      "name": "示例课程乙",
+      "teacher": "示例老师",
+      "location": "示例教室 B202",
+      "weekday": 3,
+      "weeks": [1, 3],
+      "periods": [6, 7],
+      "raw_text": "示例课程乙\n示例老师\n1-4周（单） 星期三 第6-7节\n示例教室 B202"
+    }
+  ]
+}
